@@ -1,5 +1,6 @@
 # siamrpn.pytorch
 This repository is clean re-implement of siamrpn using PyTorch that is more readable for newers.
+这个repo就看看就行，主要是为了简便看懂siamrpn设计的，有些人反馈lmbd读取有问题不能训练，之后有同样问题的就不用反馈了
 ## Environment
 - Ubuntu 18.04
 - PyTorch1.2
